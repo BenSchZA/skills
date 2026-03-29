@@ -1,0 +1,9 @@
+[submodule "obsidian-skills"]
+	path = obsidian-skills
+	url = git@github.com:kepano/obsidian-skills.git
+[submodule "minimalist-entrepreneur-skills"]
+	path = minimalist-entrepreneur-skills
+	url = git@github.com:slavingia/skills.git
+[submodule "superpowers"]
+	path = superpowers
+	url = git@github.com:obra/superpowers.git
