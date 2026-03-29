@@ -18,3 +18,7 @@ Add this repo as a plugin marketplace, then install whichever plugins you want:
 /plugin install obsidian@benscholtz-skills
 /plugin install minimalist-entrepreneur@benscholtz-skills
 ```
+
+## License
+
+Each included plugin is independently licensed. See the individual repositories for license details.
