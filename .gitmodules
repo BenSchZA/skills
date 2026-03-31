@@ -7,3 +7,6 @@
 [submodule "superpowers"]
 	path = superpowers
 	url = git@github.com:obra/superpowers.git
+[submodule "qmd"]
+	path = qmd
+	url = git@github.com:tobi/qmd.git

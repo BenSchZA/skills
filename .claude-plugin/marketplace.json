@@ -44,6 +44,15 @@
       ]
     },
     {
+      "name": "qmd",
+      "description": "Search and retrieve documents from local markdown knowledge bases using QMD",
+      "source": "./qmd",
+      "strict": false,
+      "skills": [
+        "./qmd/skills/qmd"
+      ]
+    },
+    {
       "name": "minimalist-entrepreneur",
       "description": "Business skills based on The Minimalist Entrepreneur framework: community, validation, MVP, sales, pricing, marketing, and growth",
       "source": "./minimalist-entrepreneur-skills",
