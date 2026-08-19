@@ -1,0 +1,134 @@
+{
+  "skills": [
+    {
+      "source": "upstream/superpowers/skills",
+      "group": "superpowers",
+      "enabled": false,
+      "include": [
+        "brainstorming",
+        "dispatching-parallel-agents",
+        "executing-plans",
+        "finishing-a-development-branch",
+        "receiving-code-review",
+        "requesting-code-review",
+        "subagent-driven-development",
+        "systematic-debugging",
+        "test-driven-development",
+        "using-git-worktrees",
+        "using-superpowers",
+        "verification-before-completion",
+        "writing-plans",
+        "writing-skills"
+      ]
+    },
+    {
+      "source": "upstream/obsidian/skills",
+      "group": "obsidian",
+      "include": [
+        "defuddle",
+        "json-canvas",
+        "obsidian-bases",
+        "obsidian-cli",
+        "obsidian-markdown"
+      ]
+    },
+    {
+      "source": "upstream/minimalist-entrepreneur/skills",
+      "group": "minimalist-entrepreneur",
+      "enabled": false,
+      "include": [
+        "company-values",
+        "find-community",
+        "first-customers",
+        "grow-sustainably",
+        "marketing-plan",
+        "minimalist-review",
+        "mvp",
+        "pricing",
+        "processize",
+        "validate-idea"
+      ]
+    },
+    {
+      "source": "upstream/humanizer/skills",
+      "include": [
+        "humanizer"
+      ]
+    },
+    {
+      "source": "upstream/humanlayer/plugins/show-me/skills",
+      "include": [
+        "show-me"
+      ]
+    },
+    {
+      "source": "upstream/trailofbits/plugins",
+      "group": "trailofbits",
+      "include": [
+        "dimensional-analysis/skills/dimensional-analysis",
+        "testing-handbook-skills/skills/cargo-fuzz",
+        "devcontainer-setup/skills/devcontainer-setup",
+        "differential-review/skills/differential-review",
+        "modern-python/skills/modern-python",
+        "open-sourcing/skills/open-sourcing",
+        "rust-review/skills/rust-review",
+        "sharp-edges/skills/sharp-edges",
+        "skill-improver/skills/skill-improver",
+        "spec-to-code-compliance/skills/spec-to-code-compliance"
+      ]
+    },
+    {
+      "source": "upstream/mattpocock/skills/engineering",
+      "group": "mattpocock",
+      "include": [
+        "code-review",
+        "implement",
+        "research",
+        "codebase-design",
+        "tdd",
+        "improve-codebase-architecture",
+        "triage",
+        "resolving-merge-conflicts",
+        "domain-modeling",
+        "diagnosing-bugs",
+        "grill-with-docs"
+      ]
+    },
+    {
+      "source": "upstream/mattpocock/skills/productivity",
+      "group": "mattpocock",
+      "include": [
+        "grill-me",
+        "teach",
+        "wait-what"
+      ]
+    },
+    {
+      "source": "upstream/cloudai-x/skills",
+      "group": "threejs",
+      "enabled": false
+    },
+    {
+      "source": "upstream/ponytail/skills"
+    },
+    {
+      "source": "upstream/vercel-labs/skills",
+      "include": [
+        "find-skills"
+      ]
+    },
+    {
+      "source": "upstream/steipete/skills",
+      "include": [
+        "codex-first"
+      ]
+    },
+    {
+      "source": "upstream/cursor/cursor-team-kit/skills",
+      "include": [
+        "thermo-nuclear-code-quality-review"
+      ]
+    }
+  ],
+  "agents": []
+}

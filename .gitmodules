@@ -1,12 +1,39 @@
-[submodule "obsidian-skills"]
-	path = obsidian-skills
+[submodule "obsidian"]
+	path = upstream/obsidian
 	url = git@github.com:kepano/obsidian-skills.git
-[submodule "minimalist-entrepreneur-skills"]
-	path = minimalist-entrepreneur-skills
+[submodule "minimalist-entrepreneur"]
+	path = upstream/minimalist-entrepreneur
 	url = git@github.com:slavingia/skills.git
 [submodule "superpowers"]
-	path = superpowers
+	path = upstream/superpowers
 	url = git@github.com:obra/superpowers.git
 [submodule "qmd"]
-	path = qmd
+	path = upstream/qmd
 	url = git@github.com:tobi/qmd.git
+[submodule "humanizer"]
+	path = upstream/humanizer
+	url = git@github.com:blader/humanizer.git
+[submodule "humanlayer"]
+	path = upstream/humanlayer
+	url = git@github.com:humanlayer/skills.git
+[submodule "trailofbits"]
+	path = upstream/trailofbits
+	url = git@github.com:trailofbits/skills.git
+[submodule "mattpocock"]
+	path = upstream/mattpocock
+	url = git@github.com:mattpocock/skills.git
+[submodule "cloudai-x"]
+	path = upstream/cloudai-x
+	url = git@github.com:CloudAI-X/threejs-skills.git
+[submodule "ponytail"]
+	path = upstream/ponytail
+	url = git@github.com:DietrichGebert/ponytail.git
+[submodule "vercel-labs"]
+	path = upstream/vercel-labs
+	url = git@github.com:vercel-labs/skills.git
+[submodule "steipete"]
+	path = upstream/steipete
+	url = git@github.com:steipete/agent-scripts.git
+[submodule "cursor"]
+	path = upstream/cursor
+	url = git@github.com:cursor/plugins.git

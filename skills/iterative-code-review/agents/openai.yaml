@@ -1,0 +1,4 @@
+interface:
+  display_name: "Iterative Code Review"
+  short_description: "Review, fix, and repeat until clean"
+  default_prompt: "Use $iterative-code-review to review this branch, fix accepted findings, and repeat until clean."
